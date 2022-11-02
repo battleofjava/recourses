@@ -9,9 +9,8 @@ The latest unit-wise syllabus of the Java Programming Syllabus is as follows:
 #### Unit 1:
 
 * [Introduction to OOP](https://github.com/battleofjava/resources/blob/main/topic/introduction-of-oop/Readme.md)
-* [Procedural programming language and object-oriented language]
-* [Principles of OOP]
-* [Applications of OOP]
+ * Also you can learn these *
+* [Procedural programming language and object-oriented language, Principles of OOP, Applications of OOP]
 * [History of Java]
 * [Features of Java]
 * [JVM]
