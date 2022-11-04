@@ -30,7 +30,7 @@ The latest unit-wise syllabus of the Java Programming Syllabus is as follows:
 * [Classes and objects]
 * [Class declaration]
 * [Creating objects]
-* [Methods](https://github.com/battleofjava/resources/tree/main/method-in-java)
+* [Methodsin Java](https://github.com/battleofjava/resources/tree/main/method-in-java)
 * [Constructors and constructor overloading]
 * [Garbage collector]
 * [The importance of static keyword and example]
