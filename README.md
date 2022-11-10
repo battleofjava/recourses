@@ -3,29 +3,45 @@ Welcome to this repo which provide **"Resource Segment For Beginners"**.
 
 Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
-## Topic
-The latest unit-wise syllabus of the Java Programming Syllabus is as follows:
+# Lessons
 
-#### Unit 1:
+## <u>Introduction</u>
 
-* [Introduction to OOP](https://github.com/battleofjava/resources/blob/main/topic/introduction-of-oop/Readme.md)
- * Also you can learn these *
-* [Procedural programming language and object-oriented language, Principles of OOP, Applications of OOP]
-* [History of Java]
-* [Features of Java]
-* [JVM]
-* [Program Structure]
-* [Variable]
-* [Primitive Data Type]
-* [identifiers]
-* [Literals]
-* [Operators]
-* [Expressions]
-* [Procedure rules and associativity]
-* [Primitive type conversion and casting]
-* [Flow of control]
+- [x] [What is Java?](https://)
+- [x] [History of Java](https://)
+- [x] [Features of Java](https://)
+- [x] [JVM, JRE, JDK](https://)
+- [x] [Java Program Structure & Syntax Explained](https://)
 
-#### Unit 2:
+## <u>Variable and Methods in Java</u>
+- [x] [Primitive DataType in Java](#)
+- [ ] [Typecasting in Java](#)
+- [x] [Final Keyword](#)
+- [ ] [Static Variable in Java](#)
+- [ ] [Warper Classes in Java](#)
+- [ ] [Equal() Method in Java](#)
+- [ ] [Input From User](#)
+- [ ] [Method in Java](#)
+- [ ] [Pass by value and Pass by reference in Java](#)
+
+## <u>Opreators in Java</u>
+- [ ] [Arithmetic Operator](#)
+- [ ] [Logical Operator](#)
+- [ ] [Conditional Operator](#)
+- [ ] [Bitwise Operator](#)
+
+## <u>Conditional Flow Control in Java</u>
+- [ ] [Switch Case](#)
+- [ ] [Loop in Java](#)
+- [ ] [For Each in Java](#)
+- [ ] [Break Statement in Java](#)
+- [ ] [Continue Statement in Java](#)
+- [ ] [Exit](#)
+- [ ] [Ternary Operators](#)
+
+## Array in Java
+- [ ] [OneD Array](#)
+- [ ] [MultiD Array](#)
 
 * [Classes and objects]
 * [Class declaration]
