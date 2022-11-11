@@ -7,11 +7,11 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 
 ## <u>Introduction</u>
 
-- [x] [What is Java?](https://)
-- [x] [History of Java](https://)
-- [x] [Features of Java](https://)
-- [x] [JVM, JRE, JDK](https://)
-- [x] [Java Program Structure & Syntax Explained](https://)
+- [x] [What is Java?](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#introduction)
+- [x] [History of Java](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#history)
+- [x] [Features of Java](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#features-of-java)
+- [x] [JVM, JRE, JDK](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#explaination)
+- [x] [Java Program Structure & Syntax Explained](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#structure)
 
 ## <u>Variable and Methods in Java</u>
 - [x] [Primitive DataType in Java](#)
