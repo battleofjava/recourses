@@ -11,7 +11,7 @@ Java is a programming language that James Gosling developed at Sun Microsystems_
 ``` 3. Since Java applications are compiled to byte-code, they can run on any JVM-supported machine. ``` </br></br>
 ``` 4. Java codes are very similar to C/C++, which makes them easier to understand. ``` </br></br>
 
-## Why Java Programming Language is Called JAVA?
+## History
 
 Java is the name of a beautiful island in Indonesia. It is also said that the first coffee was named right here after java coffee. The name was chosen by James Gosling during the daytime when he was enjoying a cup of coffee near his office. Java was initially called by the name: OAK.
 
@@ -44,3 +44,7 @@ Java is a high-level language and should be studied if you want to know the basi
 11) Multi Threaded
 
 12) Distributed     
+
+## Explaination 
+
+## Structure
