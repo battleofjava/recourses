@@ -6,10 +6,10 @@ Java is considered both a compiled and interpreted language. It is because Java 
 ## Introduction
 Java is a programming language that James Gosling developed at Sun Microsystems_Inc in the year 1995, which later on was taken into possession by the Oracle Corporation in 2009.
 
-``` 1. We can call it a high-level (makes the development of programs easy and much more user-friendly) programming language which makes it very convenient for us to write, compile and debug Java programs. ``` </br></br>
-``` 2. Java is a class-based object-oriented programming language that implements the principle of write once code anywhere.``` </br></br>
-``` 3. Since Java applications are compiled to byte-code, they can run on any JVM-supported machine. ``` </br></br>
-``` 4. Java codes are very similar to C/C++, which makes them easier to understand. ``` </br></br>
+``` 1. We can call it a high-level (makes the development of programs easy and much more user-friendly) programming language which makes it very convenient for us to write, compile and debug Java programs. ``` 
+``` 2. Java is a class-based object-oriented programming language that implements the principle of write once code anywhere.``` 
+``` 3. Since Java applications are compiled to byte-code, they can run on any JVM-supported machine. ``` 
+``` 4. Java codes are very similar to C/C++, which makes them easier to understand. ``` 
 
 ## History
 
