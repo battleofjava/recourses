@@ -49,8 +49,7 @@ Java is a high-level language and should be studied if you want to know the basi
 12) Distributed     
 
 
-#### Simple
-
+## Simple
 Java is generated in a very convenient manner to be able to understand easily. If you understand the basic OOPs, it is easy to master the art. Moreover, it does not contain any complex features like pointers, multiple inheritances, operator overloading, etc.
 
 #### Robust Language
