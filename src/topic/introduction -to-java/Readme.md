@@ -48,6 +48,49 @@ Java is a high-level language and should be studied if you want to know the basi
 
 12) Distributed     
 
+
+#### Simple
+
+Java is generated in a very convenient manner to be able to understand easily. If you understand the basic OOPs, it is easy to master the art. Moreover, it does not contain any complex features like pointers, multiple inheritances, operator overloading, etc.
+
+#### Robust Language
+
+So the literal meaning of robust can be easily understood as reliable. Java has been developed in such a way that it checks for errors pretty early, which results in errors being detected by the java compiler, which is pretty difficult when it comes to other programming languages.
+
+#### Secure
+
+Java turns out to be very secure, and that is because we do not have access to pointers here. Due to the lack of pointers, we are unable to get access to outbound arrays, and this makes it impossible for the flaws like buffer overflow or stack corruption to occur.
+
+#### Portable
+
+Having no implementations and being independent of the aspects of specification make Java Portable. It can be run on any platform as it is completely platform-independent like windows Linux macOS. This means that if you compile a program on Linux, you can run it on windows and the other way round.
+
+#### Sandbox Execution
+
+Java programs run in a separate space that allows user to execute their applications without affecting the underlying system with the help of a bytecode verifier. Bytecode verifier also provides additional security as its role is to check the code for any violation of access.
+
+#### Architecture neutral (Write Once Run Anywhere)
+
+This can be seen as one of the best features of java as it states that a Java program can be easily executed on any processor irrespective of its vendor and architecture. Java application generates a .class file, which corresponds to our applications but contains code in binary format. It provides architecture-neutral ease as bytecode is not dependent on any machine architecture.
+
+So features of the java programming language were pretty interesting, and now it’s time to see where we can use them. So, let’s see some applications of the Java programming language.
+
+#### Multithreaded
+
+Using this feature, it becomes easy for us to write programs that are able enough to perform multiple tasks simultaneously. This comes in handy to developers when they make interactive applications that can run smoothly.
+
+#### High Performance
+
+The Java architecture is designed in such a way that it reduces the overhead when we run an application, and at some times, it uses the JIT(Java In Time) compiler where the compiler easily compiles the code on-demand basics where it only compiles the methods that we call which makes the applications execute faster.
+
+#### Distributed
+
+When we use the Java programming language, we get able enough to create distributed applications. RMI(Remote Method Invocation) and EJB(Enterprise Java Beans) help us to create distributed applications. Let’s understand in simple words: The language can easily be distributed onto more than one system which is connected to each other through an internet connection. Objects on one JVM can be easily used to execute the procedures on a remote JVM.
+
+#### Dynamic
+
+Java can be easily considered to be more dynamic than the C and C++ programming languages. This can be said by looking at its ability to adapt to an evolving environment. The programs are capable of carrying an extensive amount of run-time information, and this information can be used in the verification of objects during the run-time.
+
 ## Explaination 
 
 ## Structure
