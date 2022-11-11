@@ -7,7 +7,7 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 
 ## <u>Introduction</u>
 
-- [x] [What is Java?](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#introduction)
+- [x] [What is Java?](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#overview)
 - [x] [History of Java](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#history)
 - [x] [Features of Java](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#features-of-java)
 - [x] [JVM, JRE, JDK](https://github.com/battleofjava/resources/tree/main/src/topic/introduction%20-of-java#explaination)
