@@ -39,16 +39,16 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 - [x] [Exit](#)
 - [x] [Ternary Operators](#)
 
-## Array in Java
+## <u>Array in Java</u>
 - [x] [OneD Array](#)
 - [x] [MultiD Array](#)
 - [ ] [Array Utilities](#)
 - [ ] [Jagged Array in Java](#)
 
-## Strings
+## <u>Strings</u>
 - [ ] [Strings in Java](#)
 
-## OOP's Concept
+## <u>OOP's Concept</u>
 - [x] [OOP Introduction](#)
 - [ ] [Static Method](#)
 - [x] [Abstraction in Java](#)
@@ -66,8 +66,8 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 - [ ] [Generices in Java](#)
 
 
-## Exception Handling
-- [x] [Exception Handling in Java](#)
+## <u>Exception Handling</u>
+- [x] [Exception Handling in Java](https://github.com/battleofjava/resources/tree/main/src/topic/exception-handling)
 
 ## Github Repository 
 * [Java in 28minutes](https://github.com/in28minutes/java-tutorial-for-beginners)
