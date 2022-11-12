@@ -65,6 +65,10 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 - [ ] [Difference Btw Abstract Class & Interfaces](#)
 - [ ] [Generices in Java](#)
 
+
+## Exception Handling
+- [x] [Exception Handling in Java](#)
+
 ## Github Repository 
 * [Java in 28minutes](https://github.com/in28minutes/java-tutorial-for-beginners)
 
